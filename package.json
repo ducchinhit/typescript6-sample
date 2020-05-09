@@ -1,0 +1,11 @@
+{
+  "name": "typescript6",
+  "version": "1.0.0",
+  "description": "toturial",
+  "main": "helloworld.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
